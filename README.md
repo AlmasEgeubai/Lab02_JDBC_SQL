@@ -8,7 +8,7 @@
 
 ![screenshot](table.png)
 
-![screenshot](12.png)
+![screenshot](1.png)
 
 ```
 CREATE TABLE IF NOT EXISTS `notebook` (
